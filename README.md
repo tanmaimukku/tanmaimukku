@@ -1,16 +1,24 @@
-### Hi there 👋
+# Hello, I'm Tanmai Mukku! 👋
 
-<!--
-**tanmaimukku/tanmaimukku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 About Me
+I'm a Data Science Specialist at ASU and an aspiring AI Research Engineer. I love solving problems using technology and am passionate about machine learning and data science.
 
-Here are some ideas to get you started:
+## 🔧 Technologies & Tools
+- **Languages**: Python, Java, JavaScript
+- **Frameworks**: TensorFlow, PyTorch, React
+- **Tools**: Docker, Kubernetes, AWS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 Projects
+- [My Project 1](https://github.com/username/project1)
+- [My Project 2](https://github.com/username/project2)
+
+## 🏆 Achievements
+- Data Science Competition Winner 2023
+- Certified AI Engineer
+
+## 📫 How to Reach Me
+- [LinkedIn](https://www.linkedin.com/in/username)
+- Email: tanmai.mukku@asu.edu
+
+## 😄 Fun Fact
+I love hiking and photography!
