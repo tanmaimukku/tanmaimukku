@@ -1,24 +1,22 @@
 # Hello, I'm Tanmai Mukku! 👋
 
 ## 👨‍💻 About Me
-I'm a Data Science Specialist at ASU and an aspiring AI Research Engineer. I love solving problems using technology and am passionate about machine learning and data science.
+I'm a Software Developer focused on building efficient and scalable solutions. With strong experience in backend engineering, machine learning and full-stack development, I enjoy solving complex problems with clean code. Check out my projects to see my work in action.
+
 
 ## 🔧 Technologies & Tools
-- **Languages**: Python, Java, JavaScript
-- **Frameworks**: TensorFlow, PyTorch, React
-- **Tools**: Docker, Kubernetes, AWS
-
-## 🌟 Projects
-- [My Project 1](https://github.com/username/project1)
-- [My Project 2](https://github.com/username/project2)
+- **Languages**: Java, Python, JavaScript, PostgreSQL, Cassandra, Kafka
+- **Frameworks**: Spring Boot, Node.js, React, Angular, TensorFlow, PyTorch, OpenCV
+- **Tools**: Docker, Kubernetes, Gitlab CI, JUnit, AWS (EC2, S3, ECS, EKS, Lambda)
 
 ## 🏆 Achievements
-- Data Science Competition Winner 2023
-- Certified AI Engineer
+- Top-5 among 150+ teams in the ASU College of Health Solutions $75,000 student challenge to combat heat health risks
+- Merit List ASU Fall 23, Spring 24
+- Research Scholarship Award - Spring 2020 for publishing at an A* conference as an undergrad student
 
 ## 📫 How to Reach Me
-- [LinkedIn](https://www.linkedin.com/in/username)
-- Email: tanmai.mukku@asu.edu
+- [LinkedIn](https://www.linkedin.com/in/mukkutanmai)
+- Email: mukkutanmai@gmail.com
 
 ## 😄 Fun Fact
-I love hiking and photography!
+I love aviation! 
