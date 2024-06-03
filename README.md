@@ -1,7 +1,7 @@
 # Hello, I'm Tanmai Mukku! 👋
 
 ## 👨‍💻 About Me
-I'm a Software Developer focused on building efficient and scalable solutions. With strong experience in backend engineering, machine learning and full-stack development, I enjoy solving complex problems with clean code. Check out my projects to see my work in action.
+I'm a Software Developer focused on building efficient and scalable solutions. With strong experience in backend engineering and machine learning, I enjoy solving complex problems with simple, clean code. Check out my projects to see my work in action.
 
 
 ## 🔧 Technologies & Tools
