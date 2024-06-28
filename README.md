@@ -5,7 +5,7 @@ I'm a Software Developer focused on building efficient and scalable solutions. W
 
 
 ## 🔧 Technologies & Tools
-- **Languages**: Java, Python, JavaScript, Bash, PostgreSQL
+- **Languages**: Java, Python, JavaScript, Bash, PostgreSQL, MongoDB
 - **Frameworks**: Spring Boot, Node.js, React, Angular, Django, Flask, TensorFlow, PyTorch, OpenCV
 - **Tools**: Docker, Kubernetes, Gitlab CI, JUnit, AWS (EC2, S3, ECS, EKS, Lambda), Kafka, Redis
 
